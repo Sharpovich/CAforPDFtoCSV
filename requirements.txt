@@ -47,7 +47,7 @@ prompt-toolkit==3.0.5
 pycryptodome==3.9.8
 Pygments==2.6.1
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
 PyQt5-stubs==5.14.2.2
